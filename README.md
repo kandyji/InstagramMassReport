@@ -1,12 +1,10 @@
-<p align="center"><img src="logo.png" width="150px" height="150px" alt="aventium softworks"></p>
+<p align="center"><img src="logo.png" width="150px" height="150px" alt="insta logo"></p>
 
 <h1 align="center">INSTAGRAM MASS REPORT BOT</h1>
 
 
 <p align="center">MASS REPORT ANY INSTAGRAM ACCOUNT.</p>
 
-![Screenshot 1](https://i.imgur.com/6o7SmH6.png)
-![Screenshot 2](https://i.imgur.com/x3B34n1.png)
 
 ## Features
 
